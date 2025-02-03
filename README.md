@@ -5,6 +5,7 @@
 ## 🌍 Your Partner in Intelligent Software Solutions
 
 Hubaix is an advanced **AI-driven software solutions** platform built with **Next.js**, providing cutting-edge AI/ML services, web and mobile app development, and remote hiring solutions. Designed with high performance and **mobile responsiveness**, Hubaix ensures a seamless experience across all devices.
+The Hubaix is a professionally designed, graphics and animations enriched portfolio website, consisting of several pages and sections for PPC and other purposes, build by Umar Farooq utilizing his professional experience in Web development especially in creating optimized sites for SEO and performance.
 
 ---
 
